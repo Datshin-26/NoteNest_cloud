@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+backend/cloudnotes.sqlite3
+backend/cloudnotes.sqlite3-shm
+backend/cloudnotes.sqlite3-wal
